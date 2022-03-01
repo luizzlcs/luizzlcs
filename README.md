@@ -6,7 +6,7 @@
   Eu sou a <b><i>Luiz Carlos</i></b>, curso Análise e Desenvolvimento de Sistemas e sou apaixonada por tecnologia, desenvolvimento front-end, inovação e possibilidades.
 
   - Sou desenvolvedor junior;
-- Sou aluno da Masterclass Flutterando (1ª turma), liderada por Jacob Moura -  
+- Fui aluno da Masterclass Flutterando (1ª turma), liderada por Jacob Moura -  
 [<img align="left" height="35" src="https://s3.sa-east-1.amazonaws.com/static.launchlab.com.br/2d5fb720-9323-48f8-872d-548e39749fe9.png">](https://masterclass.flutterando.com.br/public/products).
  
  - Aprendi flutter e Dart também com: [Leonardo Moura](https://www.udemy.com/course/curso-flutter/?src=sac), Professor [Carlos Duarte](https://www.youtube.com/channel/UCN0xtkhf8j2R6n1xKYCiJBA) e com [Rodrigo Haman](https://www.youtube.com/c/RodrigoRahman) da Academia do Flutter.
