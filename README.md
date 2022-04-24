@@ -5,12 +5,18 @@
   
   Eu sou a <b><i>Luiz Carlos</i></b>, curso Análise e Desenvolvimento de Sistemas e sou apaixonada por tecnologia, desenvolvimento front-end, inovação e possibilidades.
 
-  - Sou desenvolvedor junior;
-- Fui aluno da Masterclass Flutterando (1ª turma), liderada por Jacob Moura -  
-[<img align="left" height="35" src="https://s3.sa-east-1.amazonaws.com/static.launchlab.com.br/2d5fb720-9323-48f8-872d-548e39749fe9.png">](https://masterclass.flutterando.com.br/public/products).
- 
- - Aprendi flutter e Dart também com: [Leonardo Moura](https://www.udemy.com/course/curso-flutter/?src=sac), Professor [Carlos Duarte](https://www.youtube.com/channel/UCN0xtkhf8j2R6n1xKYCiJBA) e com [Rodrigo Haman](https://www.youtube.com/c/RodrigoRahman) da Academia do Flutter.
+ CASOS DE ESTUDOS EM FLUTTER
 
+  PROJETOS | DESCRIÇÃO DO PROJETO
+---------- | :--------
+[Flutter Primeiro Projeto](https://github.com/luizzlcs/flutter_primeiro_projeto) | Criando um MenuButton com rotas de navegação para acesso a demais componetes do flutter.
+[Instagram](https://github.com/luizzlcs/flutter_instagram) | Clonando página do instagram e usando alguns widgets já estudados: Row, Column, Stack, ScrollView, IconAvatar, Image, Icons, NavigationBottomBar, MediaQuery e outros.
+[Formulário Login](https://github.com/luizzlcs/formlogin) | Construção de formulário login, Construção do Expassiont Title, Navegação e animação.
+[Quiz de Perguntas](https://github.com/luizzlcs/perguntas_app) | Criado quiz com três perguntas, usando os principios de componentização de widgets, Comunicação direta e indireta de componentes, Função Callback e outros.
+[Consumindo API](https://github.com/luizzlcs/consumindo_uma_api) | Consumindo dados da API por meio do package http.
+  
+  
+  
 <h3 align="left">🚀Tecnologias e ferramentas:</h3>
 <p align="left"> <a  href="https://dart.dev" target="_blank" rel="noreferrer"> <img width="23" height = "23" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="20" height="23"/> </a> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img width="23", height = "23" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="23" height="23"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img width="23" height = "" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
