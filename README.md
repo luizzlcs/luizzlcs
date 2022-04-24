@@ -3,12 +3,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=luizzlcs&label=Profile%20views&color=0e75b6&style=flat" alt="luizzlcs"/> [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luizzlcs@gmail.com)](mailto:luizzlcs@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizzlcs/)](https://www.linkedin.com/in/luizzlcs/)
   
- Atualmente eu curso Análise e Desenvolvimento de Sistemas <b><i>Luiz Carlos</i></b>,  e tenho me focado bastante em aprender Dart e Flutter, sou apaixonado por tecnologia.
+ Atualmente eu curso Análise e Desenvolvimento de Sistemas,  e tenho me focado bastante em aprender Dart e Flutter, sou apaixonado por tecnologia.
 
- CASOS DE ESTUDOS EM FLUTTER
+ 🎯Logo a baixo você acessa os meus principais projetos desenvolvidos durante meu aprendizado em Flutter e Dart.
   
   <details>
-  <summary>📂POJETOS EM DART</summary>
+  <summary>📂 <i>Projetos em Dart</i></summary>
   
   PROJETOS | DESCRIÇÃO DO PROJETO
 ---------- | :--------
@@ -20,7 +20,7 @@
    
 </details>
 <details>
-  <summary>📂POJETOS EM FLUTTER</summary>
+  <summary>📂<i>Projetos em Flutter</i></summary>
   
   PROJETOS | DESCRIÇÃO DO PROJETO
 ---------- | :--------
