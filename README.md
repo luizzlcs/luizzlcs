@@ -10,25 +10,25 @@
   <details>
   <summary>📂 <i>Projetos em Dart</i></summary>
   
-  PROJETOS | DESCRIÇÃO DO PROJETO
+  PROJETOS | DESCRIÇÃO DOS PROJETO
 ---------- | :--------
-[Flutter Primeiro Projeto](https://github.com/luizzlcs/flutter_primeiro_projeto) | Criando um MenuButton com rotas de navegação para acesso a demais componetes do flutter.
-[Instagram](https://github.com/luizzlcs/flutter_instagram) | Clonando página do instagram e usando alguns widgets já estudados: Row, Column, Stack, ScrollView, IconAvatar, Image, Icons, NavigationBottomBar, MediaQuery e outros.
-[Formulário Login](https://github.com/luizzlcs/formlogin) | Construção de formulário login, Construção do Expassiont Title, Navegação e animação.
-[Quiz de Perguntas](https://github.com/luizzlcs/perguntas_app) | Criado quiz com três perguntas, usando os principios de componentização de widgets, Comunicação direta e indireta de componentes, Função Callback e outros.
-[Consumindo API](https://github.com/luizzlcs/consumindo_uma_api) | Consumindo dados da API por meio do package http.
+[Dart Fundamentos](https://github.com/luizzlcs/dart_fundamentos) | Criação de váriaveis, modificadores, Operadores condicionais, Operadores Lógicos, Null safety e outros.
+[Funções e coleções](https://github.com/luizzlcs/dart_funcoes_colecoes) | Características de uma função, Parâmetros Obrigatórios por fefault, Listas, Tratamento de Exceções, Imports, Enuns e outros.
+[Dart POO](https://github.com/luizzlcs/dart_poo) | Abstração e Encapsulamento, Classes: Atributos e comportamentos, Instanciado uma classe, Modificadores de tipos: Static - Atributos de classe e Métodos de classe, Herança, Polimofismo, O uso de Gettrs e Setters.
+[Dart Async](https://github.com/luizzlcs/dart_async) | Função Sícrona, Função Assíncrona, Future com foreach, Dart e o Evento Loop, Utilizando pacote http, Utilizando api ViaCep, Utilizando os métodos: GET, POS, PUT e DELETE, Leitura de arquivos txt.
+[Algoritimo - Teste Técnico](https://github.com/luizzlcs/consumindo_uma_api) | Esse projeto foi desenvolvido como parte de uma etapa para Seleção de Desenvolvedor de Software. O código possui uma função que recebe um número inteiro positivo e retorna o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
    
 </details>
 <details>
   <summary>📂<i>Projetos em Flutter</i></summary>
   
-  PROJETOS | DESCRIÇÃO DO PROJETO
+  PROJETOS | DESCRIÇÃO DOS PROJETO
 ---------- | :--------
 [Flutter Primeiro Projeto](https://github.com/luizzlcs/flutter_primeiro_projeto) | Criando um MenuButton com rotas de navegação para acesso a demais componetes do flutter.
 [Instagram](https://github.com/luizzlcs/flutter_instagram) | Clonando página do instagram e usando alguns widgets já estudados: Row, Column, Stack, ScrollView, IconAvatar, Image, Icons, NavigationBottomBar, MediaQuery e outros.
 [Formulário Login](https://github.com/luizzlcs/formlogin) | Construção de formulário login, Construção do Expassiont Title, Navegação e animação.
 [Quiz de Perguntas](https://github.com/luizzlcs/perguntas_app) | Criado quiz com três perguntas, usando os principios de componentização de widgets, Comunicação direta e indireta de componentes, Função Callback e outros.
-[Consumindo API](https://github.com/luizzlcs/consumindo_uma_api) | Consumindo dados da API por meio do package http.
+[Consumindo API](https://github.com/luizzlcs/escribo_atividade) | Consumindo dados da API por meio do package http.
    
 </details>
 
