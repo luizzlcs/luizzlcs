@@ -5,7 +5,7 @@
   
  Atualmente eu curso Análise e Desenvolvimento de Sistemas,  e tenho me focado bastante em aprender Dart e Flutter, sou apaixonado por tecnologia.
 
- 🎯Logo a baixo você acessa os meus principais projetos desenvolvidos durante meu aprendizado em Flutter e Dart.
+ 🎯Logo a baixo você acessa os meus principais projetos desenvolvidos durante meu aprendizado em Dart e Flutter.
   
   <details>
   <summary>📂 <i>Projetos em Dart</i></summary>
@@ -16,7 +16,7 @@
 [Funções e coleções](https://github.com/luizzlcs/dart_funcoes_colecoes) | Características de uma função, Parâmetros Obrigatórios por fefault, Listas, Tratamento de Exceções, Imports, Enuns e outros.
 [Dart POO](https://github.com/luizzlcs/dart_poo) | Abstração e Encapsulamento, Classes: Atributos e comportamentos, Instanciado uma classe, Modificadores de tipos: Static - Atributos de classe e Métodos de classe, Herança, Polimofismo, O uso de Gettrs e Setters.
 [Dart Async](https://github.com/luizzlcs/dart_async) | Função Sícrona, Função Assíncrona, Future com foreach, Dart e o Evento Loop, Utilizando pacote http, Utilizando api ViaCep, Utilizando os métodos: GET, POS, PUT e DELETE, Leitura de arquivos txt.
-[Algoritimo - Teste Técnico](https://github.com/luizzlcs/consumindo_uma_api) | Esse projeto foi desenvolvido como parte de uma etapa para Seleção de Desenvolvedor de Software. O código possui uma função que recebe um número inteiro positivo e retorna o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
+[Algoritimo - Teste Técnico](https://github.com/luizzlcs/escribo_atividade) | Esse projeto foi desenvolvido como parte de uma etapa para Seleção de Desenvolvedor de Software. O código possui uma função que recebe um número inteiro positivo e retorna o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
    
 </details>
 <details>
