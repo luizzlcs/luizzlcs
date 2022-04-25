@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Eu sou o Luiz Carlos🚀</h1>
 <h3 align="/center">
 
-<img src="https://komarev.com/ghpvc/?username=luizzlcs&label=Profile%20views&color=0e75b6&style=flat" alt="luizzlcs"/> [![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luizzlcs@gmail.com)](mailto:luizzlcs@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizzlcs/)](https://www.linkedin.com/in/luizzlcs/)
+<img src="https://komarev.com/ghpvc/?username=luizzlcs&label=Profile%20views&color=0e75b6&style=flat" alt="luizzlcs"/>  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luizzlcs@gmail.com)](mailto:luizzlcs@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizzlcs/)](https://www.linkedin.com/in/luizzlcs/)
   
   
   
