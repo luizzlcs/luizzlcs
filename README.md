@@ -48,6 +48,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizzlcs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizzlcs&theme=dark)](https://git.io/streak-stats)
-  
+
+  [![Meu GitHub](https://github-readme-streak-stats.herokuapp.com/?user=luizzlcs&theme=dark)](https://github.com/luizzlcs)
+
 
