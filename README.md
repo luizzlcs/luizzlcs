@@ -49,10 +49,5 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizzlcs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
-
-<div align="center">
-<omg height="150em" src ="[![Meu GitHub](https://github-readme-streak-stats.herokuapp.com/?user=luizzlcs&theme=dark)](https://github.com/luizzlcs)"/>
-</div> 
-
+[![Meu GitHub](https://github-readme-streak-stats.herokuapp.com/?user=luizzlcs&theme=dark)](https://github.com/luizzlcs)
 
