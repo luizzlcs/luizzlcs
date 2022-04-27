@@ -50,6 +50,7 @@
 </div>
 
 
-  [![Meu GitHub](https://github-readme-streak-stats.herokuapp.com/?user=luizzlcs&theme=dark)](https://github.com/luizzlcs)
+
+<div align="center"><img src="[![Meu GitHub](https://github-readme-streak-stats.herokuapp.com/?user=luizzlcs&theme=dark)](https://github.com/luizzlcs)></div> 
 
 
