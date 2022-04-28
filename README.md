@@ -32,6 +32,7 @@
 [Quiz de Perguntas](https://github.com/luizzlcs/perguntas_app) | Criado quiz com três perguntas, usando os principios de componentização de widgets, Comunicação direta e indireta de componentes, Função Callback e outros.
 [Consumindo API](https://github.com/luizzlcs/escribo_atividade) | Consumindo dados da API por meio do package http.
 [Calculadora IMC](https://github.com/luizzlcs/flutter_default_state_manager) | O principal objetivo desse app foi aplicar a gerencia de estado usando os elementos nativos do flutter, sem a necessidade de utilizar pacckages de terceiros.
+[SQLite Exemplo](https://github.com/luizzlcs/flutter_sqlite_exemple) | O objetivo dessa atividade foi conhecer como funciona o SQLite dentro do flutter e como implementa-lo.
    
 </details>
 
