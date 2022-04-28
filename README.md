@@ -48,7 +48,7 @@
   <a href="https://github.com/luizzlcs">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizzlcs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizzlcs&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/luizzlcs">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizzlcs&theme=dark"/>
+  </a>
 </div>
-
-[![Meu GitHub](https://github-readme-streak-stats.herokuapp.com/?user=luizzlcs&theme=dark)](https://github.com/luizzlcs)
-
