@@ -24,7 +24,7 @@
 <details>
   <summary>📂<i>Projetos em Flutter</i></summary>
   
-  PROJETOS | DESCRIÇÃO DOS PROJETO
+  PROJETOS | DESCRIÇÃO DOS PROJETOS
 ---------- | :--------
 [Flutter Primeiro Projeto](https://github.com/luizzlcs/flutter_primeiro_projeto) | Criando um MenuButton com rotas de navegação para acesso a demais componetes do flutter.
 [Instagram](https://github.com/luizzlcs/flutter_instagram) | Clonando página do instagram e usando alguns widgets já estudados: Row, Column, Stack, ScrollView, IconAvatar, Image, Icons, NavigationBottomBar, MediaQuery e outros.
