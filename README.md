@@ -33,6 +33,8 @@
 [Consumindo API](https://github.com/luizzlcs/escribo_atividade) | Consumindo dados da API por meio do package http.
 [Calculadora IMC](https://github.com/luizzlcs/flutter_default_state_manager) | Essa atividade tem como principal objetivo aplicar a gerencia de estado usando os elementos nativos do Flutter, sem a necessidade de utilizar packages de terceiros.
 [SQLite Exemplo](https://github.com/luizzlcs/flutter_sqlite_exemple) | O objetivo dessa atividade foi conhecer como funciona o SQLite dentro do flutter e como implementa-lo.
+[Usando provider com formulário login](https://github.com/luizzlcs/flutter_provider_exemple_formlogin) |O objetivo dessa atividade foi utilizar o package provider para pegar os dados passados no formulário para página seguinte.
+[Incrementador númerico com Provider](https://github.com/luizzlcs/flutter_provider_exemple_two) | O objetivo dessa atividade utilizar o package provider para o fazer o gerenciamento das classes.
    
 </details>
 
