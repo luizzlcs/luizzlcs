@@ -27,6 +27,7 @@
   PROJETOS | DESCRIÇÃO DOS PROJETOS
 ---------- | :--------
 [Projeto Campo Minado](https://github.com/luizzlcs/campo_minado) | Falta ajustar layout, fazer com que os campos caibam em uma única tela.  
+[Exportando dados para Excel](https://github.com/luizzlcs/flutter_export_to_excel) | Exportando dados mockados para o excel. 
 [Flutter Primeiro Projeto](https://github.com/luizzlcs/flutter_primeiro_projeto) | Criando um MenuButton com rotas de navegação para acesso a demais componetes do flutter.
 [Instagram](https://github.com/luizzlcs/flutter_instagram) | Clonando página do instagram e usando alguns widgets já estudados: Row, Column, Stack, ScrollView, IconAvatar, Image, Icons, NavigationBottomBar, MediaQuery e outros.
 [Formulário Login](https://github.com/luizzlcs/formlogin) | Construção de formulário login, Construção do Expassiont Title, Navegação e animação.
