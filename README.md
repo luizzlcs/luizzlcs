@@ -25,8 +25,7 @@
   <summary>📂<i>Aprendizado com Flutter</i></summary>
   
   PROJETOS | DESCRIÇÃO DOS PROJETOS
----------- | :--------
-[Projeto Campo Minado](https://github.com/luizzlcs/campo_minado) | Falta ajustar layout, fazer com que os campos caibam em uma única tela.  
+---------- | :--------  
 [Exportando dados para Excel](https://github.com/luizzlcs/flutter_export_to_excel) | Exportando dados mockados para o excel. 
 [Flutter Primeiro Projeto](https://github.com/luizzlcs/flutter_primeiro_projeto) | Criando um MenuButton com rotas de navegação para acesso a demais componetes do flutter.
 [Instagram](https://github.com/luizzlcs/flutter_instagram) | Clonando página do instagram e usando alguns widgets já estudados: Row, Column, Stack, ScrollView, IconAvatar, Image, Icons, NavigationBottomBar, MediaQuery e outros.
@@ -44,7 +43,7 @@
   
   PROJETOS | DESCRIÇÃO DOS PROJETOS
 ---------- | :--------
-[Ijeção de dependência com GeIt](https://github.com/luizzlcs/inject_dependency) | Falta ajustar layout, fazer com que os campos caibam em uma única tela.
+[Ijeção de dependência com GeIt](https://github.com/luizzlcs/inject_dependency) | Neste projeto simples usei o GetIt para fazer injeção de dependência.
 [Projeto Campo Minado](https://github.com/luizzlcs/campo_minado) | Falta ajustar layout, fazer com que os campos caibam em uma única tela. 
    
 </details>
