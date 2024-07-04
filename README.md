@@ -44,7 +44,7 @@ https://github.com/luizzlcs/flutter_default_state_manager) | Essa atividade tem 
   
   PROJETOS | DESCRIÇÃO DOS PROJETOS
 ---------- | :--------
-[Ijeção de dependência com GeIt]( https://github.com/luizzlcs/inject_dependency/blob/main/README.md) | Neste projeto simples usei o GetIt para fazer injeção de dependência.
+[Injeção de dependência com GeIt]( https://github.com/luizzlcs/inject_dependency/blob/main/README.md) | Neste projeto simples usei o GetIt para fazer injeção de dependência.
 [Projeto Campo Minado](https://github.com/luizzlcs/campo_minado) | Falta ajustar layout, fazer com que os campos caibam em uma única tela. 
    
 </details>
