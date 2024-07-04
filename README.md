@@ -10,7 +10,7 @@
  🎯Logo a baixo você acessa os meus principais projetos desenvolvidos durante meu aprendizado em Dart e Flutter.
   
   <details>
-  <summary>📂 <i>Projetos em Dart</i></summary>
+  <summary>📂 <i>Aprendizado com Dart</i></summary>
   
   PROJETOS | DESCRIÇÃO DOS PROJETOS
 ---------- | :--------
@@ -22,7 +22,7 @@
    
 </details>
 <details>
-  <summary>📂<i>Projetos em Flutter</i></summary>
+  <summary>📂<i>Aprendizado com Flutter</i></summary>
   
   PROJETOS | DESCRIÇÃO DOS PROJETOS
 ---------- | :--------
@@ -38,6 +38,14 @@
 [Usando provider com formulário login](https://github.com/luizzlcs/flutter_provider_exemple_formlogin) |O objetivo dessa atividade foi utilizar o package provider para pegar os dados passados no formulário para página seguinte.
 [Incrementador númerico com Provider](https://github.com/luizzlcs/flutter_provider_exemple_two) | O objetivo dessa atividade utilizar o package provider para o fazer o gerenciamento das classes.
 [Gegencia de Estado com Bloc e Cubit](https://github.com/luizzlcs/flutter_bloc_estudos) | Contado númerico com incremento e decremento com uso do Bloc e Cubit para Gerenciar o Estado da aplicação.
+
+<details>
+  <summary>📂<i> Projetos Flutter\DART</i></summary>
+  
+  PROJETOS | DESCRIÇÃO DOS PROJETOS
+---------- | :--------
+[Ijeção de dependência com GeIt](https://github.com/luizzlcs/inject_dependency) | Falta ajustar layout, fazer com que os campos caibam em uma única tela.
+[Projeto Campo Minado](https://github.com/luizzlcs/campo_minado) | Falta ajustar layout, fazer com que os campos caibam em uma única tela. 
    
 </details>
 
@@ -57,3 +65,4 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizzlcs&theme=dark"/>
   </a>
 </div>
+
