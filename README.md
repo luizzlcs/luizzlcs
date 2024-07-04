@@ -38,7 +38,7 @@
 [Usando provider com formulário login](https://github.com/luizzlcs/flutter_provider_exemple_formlogin) |O objetivo dessa atividade foi utilizar o package provider para pegar os dados passados no formulário para página seguinte.
 [Incrementador númerico com Provider](https://github.com/luizzlcs/flutter_provider_exemple_two) | O objetivo dessa atividade utilizar o package provider para o fazer o gerenciamento das classes.
 [Gegencia de Estado com Bloc e Cubit](https://github.com/luizzlcs/flutter_bloc_estudos) | Contado númerico com incremento e decremento com uso do Bloc e Cubit para Gerenciar o Estado da aplicação.
-
+</details>
 <details>
   <summary>📂<i> Projetos Flutter\DART</i></summary>
   
