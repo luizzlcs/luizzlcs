@@ -32,7 +32,8 @@
 [Formulário Login](https://github.com/luizzlcs/formlogin) | Construção de formulário login, Construção do Expassiont Title, Navegação e animação.
 [Quiz de Perguntas](https://github.com/luizzlcs/perguntas_app) | Criado quiz com três perguntas, usando os principios de componentização de widgets, Comunicação direta e indireta de componentes, Função Callback e outros.
 [Consumindo API](https://github.com/luizzlcs/escribo_atividade) | Consumindo dados da API por meio do package http.
-[Calculadora IMC](https://github.com/luizzlcs/flutter_default_state_manager) | Essa atividade tem como principal objetivo aplicar a gerencia de estado usando os elementos nativos do Flutter, sem a necessidade de utilizar packages de terceiros.
+[Calculadora IMC](
+https://github.com/luizzlcs/flutter_default_state_manager) | Essa atividade tem como principal objetivo aplicar a gerencia de estado usando os elementos nativos do Flutter, sem a necessidade de utilizar packages de terceiros.
 [SQLite Exemplo](https://github.com/luizzlcs/flutter_sqlite_exemple) | O objetivo dessa atividade foi conhecer como funciona o SQLite dentro do flutter e como implementa-lo.
 [Usando provider com formulário login](https://github.com/luizzlcs/flutter_provider_exemple_formlogin) |O objetivo dessa atividade foi utilizar o package provider para pegar os dados passados no formulário para página seguinte.
 [Incrementador númerico com Provider](https://github.com/luizzlcs/flutter_provider_exemple_two) | O objetivo dessa atividade utilizar o package provider para o fazer o gerenciamento das classes.
@@ -43,7 +44,7 @@
   
   PROJETOS | DESCRIÇÃO DOS PROJETOS
 ---------- | :--------
-[Ijeção de dependência com GeIt](https://github.com/luizzlcs/inject_dependency) | Neste projeto simples usei o GetIt para fazer injeção de dependência.
+[Ijeção de dependência com GeIt]( https://github.com/luizzlcs/inject_dependency/blob/main/README.md) | Neste projeto simples usei o GetIt para fazer injeção de dependência.
 [Projeto Campo Minado](https://github.com/luizzlcs/campo_minado) | Falta ajustar layout, fazer com que os campos caibam em uma única tela. 
    
 </details>
