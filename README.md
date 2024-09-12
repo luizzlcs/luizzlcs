@@ -2,7 +2,7 @@
 <h3 align="/center">
 
 <img src="https://komarev.com/ghpvc/?username=luizzlcs&label=Profile%20views&color=0e75b6&style=flat" alt="luizzlcs"/>
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luizzlcs@gmail.com)](mailto:luizzlcs@gmail.com) 
+   
   
   
   
