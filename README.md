@@ -1,7 +1,8 @@
 <h1 align="center">Olá, Eu sou o Luiz Carlos🚀</h1>
 <h3 align="/center">
 
-<img src="https://komarev.com/ghpvc/?username=luizzlcs&label=Profile%20views&color=0e75b6&style=flat" alt="luizzlcs"/>  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luizzlcs@gmail.com)](mailto:luizzlcs@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizzlcs/)](https://www.linkedin.com/in/luizzlcs/)
+<img src="https://komarev.com/ghpvc/?username=luizzlcs&label=Profile%20views&color=0e75b6&style=flat" alt="luizzlcs"/>
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luizzlcs@gmail.com)](mailto:luizzlcs@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizzlcs/)](https://www.linkedin.com/in/luizzlcs/)
   
   
   
@@ -46,6 +47,7 @@ https://github.com/luizzlcs/flutter_default_state_manager) | Essa atividade tem 
 ---------- | :--------
 [Injeção de dependência com GeIt]( https://github.com/luizzlcs/inject_dependency/blob/main/README.md) | Neste projeto simples usei o GetIt para fazer injeção de dependência.
 [Projeto Campo Minado](https://github.com/luizzlcs/campo_minado) | Falta ajustar layout, fazer com que os campos caibam em uma única tela. 
+[Seven Maneger]([https://github.com/luizzlcs/campo_minado](https://github.com/luizzlcs/seven_manager7/blob/master/README.md)) | Projeto em desenvolvimento, possui várias funcionalidades para atender as rotinas locais das Igrejas Adventistas.
    
 </details>
 
