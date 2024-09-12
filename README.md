@@ -2,11 +2,12 @@
 <h3 align="/center">
 
 <img src="https://komarev.com/ghpvc/?username=luizzlcs&label=Profile%20views&color=0e75b6&style=flat" alt="luizzlcs"/>
-   
+
+   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizzlcs/)](https://www.linkedin.com/in/luizzlcs/)
   
   
   
- Atualmente eu curso Análise e Desenvolvimento de Sistemas,  e tenho me focado bastante em aprender Dart e Flutter, sou apaixonado por tecnologia.
+
 
  🎯Logo a baixo você acessa os meus principais projetos desenvolvidos durante meu aprendizado em Dart e Flutter.
   
