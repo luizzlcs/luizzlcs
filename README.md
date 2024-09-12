@@ -47,7 +47,7 @@ https://github.com/luizzlcs/flutter_default_state_manager) | Essa atividade tem 
 ---------- | :--------
 [Injeção de dependência com GeIt]( https://github.com/luizzlcs/inject_dependency/blob/main/README.md) | Neste projeto simples usei o GetIt para fazer injeção de dependência.
 [Projeto Campo Minado](https://github.com/luizzlcs/campo_minado) | Falta ajustar layout, fazer com que os campos caibam em uma única tela. 
-[Seven Maneger]([https://github.com/luizzlcs/campo_minado](https://github.com/luizzlcs/seven_manager7/blob/master/README.md)) | Projeto em desenvolvimento, possui várias funcionalidades para atender as rotinas locais das Igrejas Adventistas.
+[Seven Maneger](https://github.com/luizzlcs/seven_manager7/blob/master/README.md]) | Projeto em desenvolvimento, possui várias funcionalidades para atender as rotinas locais das Igrejas Adventistas.
    
 </details>
 
