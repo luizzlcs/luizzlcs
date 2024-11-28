@@ -45,7 +45,7 @@ https://github.com/luizzlcs/flutter_default_state_manager) | Essa atividade tem 
   
   PROJETOS | DESCRIÇÃO DOS PROJETOS
 ---------- | :--------
-[Injeção de dependência com GeIt]( https://github.com/luizzlcs/inject_dependency/blob/main/README.md) | Neste projeto simples usei o GetIt para fazer injeção de dependência.
+[Injeção de dependência com GeIt](https://github.com/luizzlcs/inject_dependency/blob/main/README.md) | Neste projeto simples usei o GetIt para fazer injeção de dependência.
 [Projeto Campo Minado](https://github.com/luizzlcs/campo_minado) | Falta ajustar layout, fazer com que os campos caibam em uma única tela. 
 [Seven Maneger](https://github.com/luizzlcs/seven_manager7/blob/master/README.md) | Projeto em desenvolvimento, possui várias funcionalidades para atender as rotinas locais das Igrejas Adventistas.
    
@@ -56,9 +56,9 @@ https://github.com/luizzlcs/flutter_default_state_manager) | Essa atividade tem 
   
   PROJETOS | DESCRIÇÃO DOS PROJETOS
 ---------- | :--------
-[Componentes e injeção de dependência]( [https://github.com/luizzlcs/inject_dependency/blob/main/README.md](https://github.com/luizzlcs/order/blob/master/README.md)) | Criação de projeto Spring Boot,  Configuração de componentes Spring e injeção de dependência, Implementação de projeto de componentes.
-[Modelo de domínio e ORM]([https://github.com/luizzlcs/campo_minado](https://github.com/luizzlcs/dsevent/blob/master/README.md)) | Implementação de entidades de domínio, Mapeamento objeto-relacional com JPA, Setup de projeto Spring Boot para banco H2, Seeding de base de dados H2. 
-[CRUD de clientes]([https://github.com/luizzlcs/seven_manager7/blob/master/README.md](https://github.com/luizzlcs/dsClient/blob/master/README.md)) | Implementação de operações de CRUD, Tratamento de exceções, Customização de respostas HTTP, Validação de dados com Bean Validation.
+[Componentes e injeção de dependência](https://github.com/luizzlcs/order/blob/master/README.md) | Criação de projeto Spring Boot,  Configuração de componentes Spring e injeção de dependência, Implementação de projeto de componentes.
+[Modelo de domínio e ORM](https://github.com/luizzlcs/dsevent/blob/master/README.md) | Implementação de entidades de domínio, Mapeamento objeto-relacional com JPA, Setup de projeto Spring Boot para banco H2, Seeding de base de dados H2. 
+[CRUD de clientes](https://github.com/luizzlcs/dsClient/blob/master/README.md) | Implementação de operações de CRUD, Tratamento de exceções, Customização de respostas HTTP, Validação de dados com Bean Validation.
    
 </details>
 
