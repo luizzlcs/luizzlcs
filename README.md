@@ -60,6 +60,7 @@ https://github.com/luizzlcs/flutter_default_state_manager) | Essa atividade tem 
 [Modelo de domínio e ORM](https://github.com/luizzlcs/dsevent/blob/master/README.md) | Implementação de entidades de domínio, Mapeamento objeto-relacional com JPA, Setup de projeto Spring Boot para banco H2, Seeding de base de dados H2. 
 [CRUD de clientes](https://github.com/luizzlcs/dsClient/blob/master/README.md) | Implementação de operações de CRUD, Tratamento de exceções, Customização de respostas HTTP, Validação de dados com Bean Validation.
 [Consulta vendas](https://github.com/luizzlcs/desafio-consulta-vendas/blob/main/README.md) | Trata-se de um sistema de vendas (Sale) e vendedores (Seller). Cada venda está para um vendedor, e um vendedor pode ter várias vendas. Diponibiza Relatório de vendas e Sumário de vendas por vendedor.
+[DSCommerce API](https://github.com/luizzlcs/dscommerce/blob/master/README.md) |  Oferece recursos como autenticação segura, gestão de usuários, produtos e categorias, além de processamento de pedidos, integrando bancos de dados H2.
    
 </details>
 
