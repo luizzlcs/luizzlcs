@@ -26,6 +26,7 @@
   
   PROJETOS | DESCRIÇÃO DOS PROJETOS
 ---------- | :--------  
+[Aplicativo de Diretório de Links em Flutter](https://github.com/luizzlcs/adventistasc/blob/master/README.md) | Site de diretórios de links para colocar na bio do Instagram. 
 [Exportando dados para Excel](https://github.com/luizzlcs/flutter_export_to_excel) | Exportando dados mockados para o excel. 
 [Flutter Primeiro Projeto](https://github.com/luizzlcs/flutter_primeiro_projeto) | Criando um MenuButton com rotas de navegação para acesso a demais componetes do flutter.
 [Instagram](https://github.com/luizzlcs/flutter_instagram) | Clonando página do instagram e usando alguns widgets já estudados: Row, Column, Stack, ScrollView, IconAvatar, Image, Icons, NavigationBottomBar, MediaQuery e outros.
